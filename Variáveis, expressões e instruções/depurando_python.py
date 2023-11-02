@@ -1,0 +1,5 @@
+base  = int(input())
+altura = int(input())
+base = int(base)
+area = ((base * altura) / 2)
+print(f'{area:.2f}')
